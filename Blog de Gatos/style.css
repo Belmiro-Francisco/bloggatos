@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root, input{
+    font-family: 'Mulish', sans-serif;;
+}
+
+body{
+
+}
+
+header{
+    background-color: #387E96;
+    display: flex;
+    gap:7.2rem;
+    align-items: center;
+}
+
+footer{
+    color: white;
+    background-color: #387E96;;
+    
+}
